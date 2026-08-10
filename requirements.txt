@@ -1,7 +1,3 @@
 python-telegram-bot==20.3
-numpy==1.24.3
-pandas==2.0.3
-yfinance==0.2.28
-scipy==1.11.1
-
-Commit
+requests==2.31.0
+python-dotenv==1.0.0
